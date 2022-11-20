@@ -1,3 +1,4 @@
+.DS_Store
 # Adding config.py file.
 config.py
 
@@ -14,7 +15,6 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-.DS_Store
 .Python
 build/
 develop-eggs/
