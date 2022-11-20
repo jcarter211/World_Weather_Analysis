@@ -1,1 +1,4 @@
-# World_Weather_Analysis
+# World Weather Analysis
+## Overview
+In this project, I am assisting a travel technology company with collecting and presenting data to customers that will help them find their ideal hotel around the world. Using specific search criteria based on the weather, customers will be able to choose their possible vacation locations. In order to create this project, I used OpenWeatherMap API and Google Places API. After generating 1500 random cities in Pandas, I used JSON to create a dataframe containing each city's country, latitude, longitide, humidity, cloudiness, wind speed, max temperature, and a brief current weather description. From there, customers are able to add their minimum and maximum weather temperature preferences. After creating this criteria, a list of potential travel destinations will pop up with a marker at each possible hotel as well. The marker lists the hotel name, city, country, and current weather with the max. temperature as well. If the customer chooses, they may also use a feature that allows them to create a travel itinerary containing a few cities/hotels. 
+
